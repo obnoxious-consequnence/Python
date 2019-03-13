@@ -1,7 +1,8 @@
 # Python
 A collection of repositories from the course Python  
 
-Lessons Notes: https://github.com/datsoftlyngby/dat4sem2019spring-python-materials  
+Lessons Notes: https://github.com/datsoftlyngby/dat4sem2019spring-python-materials    
+Exercises: https://github.com/obnoxious-consequnence/Exercises  
 
 ## Assignments   
 CLI, Openpyxl and modules:   
@@ -20,5 +21,3 @@ Request:
 
 Networks:  
 
-
-Exercises: https://github.com/obnoxious-consequnence/Exercises  
