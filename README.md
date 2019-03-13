@@ -7,9 +7,9 @@ Lessons Notes: https://github.com/datsoftlyngby/dat4sem2019spring-python-materia
 
 | Hand-in nr.    | Topic        | Repo Link.     |
 | :------------- | :----------: | -----------: |
-|  Cell Contents | More Stuff   | And Again    |
-| You Can Also   | Put Pipes In | Like this \| |
-
+| 1 | More Stuff   | And Again    |
+| 2   | Put Pipes In | Like this \| |
+| 3| CLI |https://github.com/obnoxious-consequnence/Assignment01   |  
 CLI, Openpyxl and modules: https://github.com/obnoxious-consequnence/Assignment01  
 Plotting with Python: https://github.com/obnoxious-consequnence/Assignment02  
 NumPy: https://github.com/obnoxious-consequnence/Assignment03
