@@ -20,5 +20,5 @@ https://github.com/obnoxious-consequnence/Assignment04
 Request:  
 https://github.com/obnoxious-consequnence/Assignment05  
 
-Networks:  
+Network:  
 https://github.com/obnoxious-consequnence/Assignment06  
