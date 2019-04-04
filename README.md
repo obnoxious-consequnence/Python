@@ -25,3 +25,6 @@ https://github.com/obnoxious-consequnence/Assignment06
 
 Web Scrapping:  
 https://github.com/obnoxious-consequnence/Assignment07  
+
+Machine Learning:  
+https://github.com/obnoxious-consequnence/Assignment08    
