@@ -10,6 +10,7 @@ Exercises: https://github.com/obnoxious-consequnence/Exercises
 - Motion Detection - Train a neural network to detect signals (hand gestures, body language etc) and use them to execute different functions like: play a sound, a song, a movie quote or whatever. Inspiration: https://towardsdatascience.com/training-a-neural-network-to-detect-gestures-with-opencv-in-python-e09b0a12bdf1
 - Motion Detection Game - Again through training a neural network; create a motion detection game where the game gives you 20 seconds to perform a alphabetic letter or something alike with your body language. If you perform well, you get points and move on to next assignment. Based on quickness and number of goals achieved you get a score at the end and theres a scoreboard as well to collect the top 10 performers.
 - Hand Gesture Regogniction - Using hand gestures to control volume on a video (Youtube, Netflix, HBO, etc.). There's a libary called  [handy](https://pypi.org/project/handy/), we can use to detect the hand, as a start. 
+
 | Hand Gesture        | Result |
 | ------------- |:-------------:|
 | col 3 is      | right-aligned |
