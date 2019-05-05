@@ -7,6 +7,7 @@ Exercises: https://github.com/obnoxious-consequnence/Exercises
 ## Exam Project Ideas
 - Image Creation - train a model to know what an object looks like (f.eks. dog) and tell it to throw random colored pixels together, untill it has created a dog?
 - Where's Waldo, Extedned - We've made an assignment before where we used Template Matching to find Waldo by matching an image of him in the scene. However, now we need to use Neural Network, to train a model to know what Waldo looks like... And therefor can find him in any given "Where's Waldo" page!
+- Motion Detection - Train a neural network to detect signals (hand gestures, body language etc) and use them to execute different functions like: play a sound, a song, a movie quote or whatever. Inspiration: https://towardsdatascience.com/training-a-neural-network-to-detect-gestures-with-opencv-in-python-e09b0a12bdf1
 
 ## Assignments   
 CLI, Openpyxl and modules:   
