@@ -9,6 +9,13 @@ Exercises: https://github.com/obnoxious-consequnence/Exercises
 - Where's Waldo, Extedned - We've made an assignment before where we used Template Matching to find Waldo by matching an image of him in the scene. However, now we need to use Neural Network, to train a model to know what Waldo looks like... And therefor can find him in any given "Where's Waldo" page!
 - Motion Detection - Train a neural network to detect signals (hand gestures, body language etc) and use them to execute different functions like: play a sound, a song, a movie quote or whatever. Inspiration: https://towardsdatascience.com/training-a-neural-network-to-detect-gestures-with-opencv-in-python-e09b0a12bdf1
 - Motion Detection Game - Again through training a neural network; create a motion detection game where the game gives you 20 seconds to perform a alphabetic letter or something alike with your body language. If you perform well, you get points and move on to next assignment. Based on quickness and number of goals achieved you get a score at the end and theres a scoreboard as well to collect the top 10 performers.
+- Hand Gesture Regogniction - Using hand gestures to control volume on a video (Youtube, Netflix, HBO, etc.). There's a libary called  [handy](https://pypi.org/project/handy/), we can use to detect the hand, as a start. 
+|  Gesture | Result  |
+|---|---|
+|   | Volume Up  |
+|   |  Volume Down |
+|   |  Mute |
+|  | Unmute |
 
 
 ## Assignments   
