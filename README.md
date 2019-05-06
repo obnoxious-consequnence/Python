@@ -18,7 +18,7 @@ Inspiration: https://towardsdatascience.com/training-a-neural-network-to-detect-
 ### Motion Detection Game
 Again through training a neural network; create a motion detection game where the game gives you 20 seconds to perform a alphabetic letter or something alike with your body language. If you perform well, you get points and move on to next assignment. Based on quickness and number of goals achieved you get a score at the end and theres a scoreboard as well to collect the top 10 performers.
 
-### Hand Gesture Regogniction
+### Hand Gesture Recogniction
 Using hand gestures to control volume on a video (Youtube, Netflix, HBO, etc.). There's a libary called  [handy](https://pypi.org/project/handy/), we can use to detect the hand, as a start. 
 
 | Hand Gesture | Result |
