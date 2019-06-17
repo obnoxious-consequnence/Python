@@ -6,7 +6,8 @@ Exercises: https://github.com/obnoxious-consequnence/Exercises
 
 ## Exam Project Ideas
 
-**Exam Project:** https://github.com/obnoxious-consequnence/Human-Tetris 
+**Exam Project:** https://github.com/obnoxious-consequnence/Human-Tetris  
+Exam Notes: https://github.com/obnoxious-consequnence/Exam  
 
 ### Image Creation
 train a model to know what an object looks like (f.eks. dog) and tell it to throw random colored pixels together, untill it has created a dog?
